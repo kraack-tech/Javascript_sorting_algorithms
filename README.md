@@ -2,4 +2,4 @@
 ## Associated with CM1035 Algorithms and Data Structures I
 
 ### Objective:
-####  Create various sorting algorithms using Javascript and verify that they work as intended.
+####  Create various search and sorting algorithms using Javascript and verify that they work as intended.
